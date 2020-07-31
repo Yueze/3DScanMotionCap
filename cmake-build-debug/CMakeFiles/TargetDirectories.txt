@@ -1,0 +1,3 @@
+/home/turtlebot/CLionProjects/astra_dataset/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/turtlebot/CLionProjects/astra_dataset/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/turtlebot/CLionProjects/astra_dataset/cmake-build-debug/CMakeFiles/astra_dataset.dir

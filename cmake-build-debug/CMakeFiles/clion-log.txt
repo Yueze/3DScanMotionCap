@@ -1,0 +1,12 @@
+/opt/clion-2020.1.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/turtlebot/CLionProjects/astra_dataset
+-- Found Astra includes in /home/turtlebot/lib/Astra_sdk/Astra_sdk/include
+-- Found Astra lib dir: /home/turtlebot/lib/Astra_sdk/Astra_sdk/lib
+-- Found Astra libraries: /home/turtlebot/lib/Astra_sdk/Astra_sdk/lib/libastra_core.so;/home/turtlebot/lib/Astra_sdk/Astra_sdk/lib/libastra_core_api.so;/home/turtlebot/lib/Astra_sdk/Astra_sdk/lib/libastra.so;pthread
+-- Found Astra TOML: /home/turtlebot/lib/Astra_sdk/Astra_sdk/lib/astra.toml
+-- Found Astra plugins: /home/turtlebot/lib/Astra_sdk/Astra_sdk/lib/Plugins/libOrbbecBodyTracking.so;/home/turtlebot/lib/Astra_sdk/Astra_sdk/lib/Plugins/libopenni_sensor.so;/home/turtlebot/lib/Astra_sdk/Astra_sdk/lib/Plugins/liborbbec_hand.so;/home/turtlebot/lib/Astra_sdk/Astra_sdk/lib/Plugins/liborbbec_xs.so
+-- Found Astra plugin TOML: /home/turtlebot/lib/Astra_sdk/Astra_sdk/lib/Plugins/orbbec_hand.toml
+-- Configuring done
+WARNING: Target "astra_dataset" requests linking to directory "/home/turtlebot/lib/Astra_sdk/Astra_sdk/lib".  Targets may link only to libraries.  CMake is dropping the item.
+WARNING: Target "astra_dataset" requests linking to directory "/home/turtlebot/lib/OpenNI/Platform/Linux/Redist/OpenNI-Bin-Dev-Linux-x64-v1.5.7.10/Lib".  Targets may link only to libraries.  CMake is dropping the item.
+-- Generating done
+-- Build files have been written to: /home/turtlebot/CLionProjects/astra_dataset/cmake-build-debug
